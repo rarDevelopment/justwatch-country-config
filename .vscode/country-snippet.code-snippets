@@ -9,8 +9,8 @@
       "\t\"triggerNames\": [",
       "\t\t\"${3:NAME}\"",
       "\t],",
-      "\t\"emoji\": \"${4:EMOJI}\",",
-      "\t\"urlSearchWord\": ${5:URLSEARCHWORD}",
+      "\t\"emoji\": \":flag_${4:COUNTRYCODE}:\",",
+      "\t\"urlSearchWord\": \"${5:URLSEARCHWORD}\"",
       "},"
     ]
   }
