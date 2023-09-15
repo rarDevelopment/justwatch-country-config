@@ -17,8 +17,8 @@
     {
       "name": "United Kingdom",
       "code": "uk",
-      "triggerNames": ["uk", "united kingdom"],
-      "emoji": ":flag_uk:",
+      "triggerNames": ["uk", "united kingdom", "britain"],
+      "emoji": ":flag_gb:",
       "urlSearchWord": "search"
     },
     {
