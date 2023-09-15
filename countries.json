@@ -160,6 +160,41 @@
       "triggerNames": ["venezuela"],
       "emoji": ":flag_ve:",
       "urlSearchWord": "buscar"
+    },
+    {
+      "name": "Albania",
+      "code": "al",
+      "triggerNames": ["albania"],
+      "emoji": ":flag_al:",
+      "urlSearchWord": "kërko"
+    },
+    {
+      "name": "Andorra",
+      "code": "ad",
+      "triggerNames": ["andorra"],
+      "emoji": ":flag_ad:",
+      "urlSearchWord": "cerca"
+    },
+    {
+      "name": "Austria",
+      "code": "at",
+      "triggerNames": ["austria"],
+      "emoji": ":flag_at:",
+      "urlSearchWord": "Suche"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "az",
+      "triggerNames": ["azerbaijan"],
+      "emoji": ":flag_az:",
+      "urlSearchWord": "axtarış"
+    },
+    {
+      "name": "Belarus",
+      "code": "by",
+      "triggerNames": ["belarus"],
+      "emoji": ":flag_by:",
+      "urlSearchWord": "пошук"
     }
   ]
 }
