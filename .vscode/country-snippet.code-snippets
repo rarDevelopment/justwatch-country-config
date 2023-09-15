@@ -1,0 +1,17 @@
+{
+  "country": {
+    "scope": "json",
+    "prefix": "cntry",
+    "body": [
+      "{",
+      "\t\"name\": \"${1:COUNTRYNAME}\",",
+      "\t\"code\": \"${2:COUNTRYCODE}\",",
+      "\t\"triggerNames\": [",
+      "\t\t\"${3:NAME}\"",
+      "\t],",
+      "\t\"emoji\": \"${4:EMOJI}\",",
+      "\t\"urlSearchWord\": ${5:URLSEARCHWORD}",
+      "},"
+    ]
+  }
+}

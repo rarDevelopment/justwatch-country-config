@@ -1,0 +1,53 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "code": "us",
+      "triggerNames": ["usa", "us", "united states", "united states of america", "us of a"],
+      "emoji": ":flag_us:",
+      "urlSearchWord": "search"
+    },
+    {
+      "name": "Canada",
+      "code": "ca",
+      "triggerNames": ["Canada"],
+      "emoji": ":flag_ca:",
+      "urlSearchWord": "search"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "uk",
+      "triggerNames": ["uk", "united kingdom"],
+      "emoji": ":flag_uk:",
+      "urlSearchWord": "search"
+    },
+    {
+      "name": "Germany",
+      "code": "de",
+      "triggerNames": ["Germany", "Deutschland"],
+      "emoji": ":flag_de:",
+      "urlSearchWord": "Suche"
+    },
+    {
+      "name": "Brazil",
+      "code": "br",
+      "triggerNames": ["Brazil"],
+      "emoji": ":flag_br:",
+      "urlSearchWord": "busca"
+    },
+    {
+      "name": "India",
+      "code": "in",
+      "triggerNames": ["India"],
+      "emoji": ":flag_in:",
+      "urlSearchWord": "search"
+    },
+    {
+      "name": "Oman",
+      "code": "om",
+      "triggerNames": ["Oman"],
+      "emoji": ":flag_om:",
+      "urlSearchWord": "search"
+    }
+  ]
+}
