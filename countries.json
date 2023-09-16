@@ -451,7 +451,7 @@
     {
       "name": "United Kingdom",
       "code": "uk",
-      "emoji": ":flag_br:",
+      "emoji": ":flag_gb:",
       "triggerNames": ["uk", "united kingdom", "britain"],
       "urlSearchWord": "search"
     },
