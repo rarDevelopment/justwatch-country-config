@@ -1,200 +1,905 @@
-{
-  "countries": [
-    {
-      "name": "United States",
-      "code": "us",
-      "triggerNames": ["usa", "us", "united states", "united states of america", "us of a", "america"],
-      "emoji": ":flag_us:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Canada",
-      "code": "ca",
-      "triggerNames": ["Canada"],
-      "emoji": ":flag_ca:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "United Kingdom",
-      "code": "uk",
-      "triggerNames": ["uk", "united kingdom", "britain"],
-      "emoji": ":flag_gb:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Germany",
-      "code": "de",
-      "triggerNames": ["Germany", "Deutschland"],
-      "emoji": ":flag_de:",
-      "urlSearchWord": "Suche"
-    },
-    {
-      "name": "Brazil",
-      "code": "br",
-      "triggerNames": ["Brazil"],
-      "emoji": ":flag_br:",
-      "urlSearchWord": "busca"
-    },
-    {
-      "name": "India",
-      "code": "in",
-      "triggerNames": ["India"],
-      "emoji": ":flag_in:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Oman",
-      "code": "om",
-      "triggerNames": ["Oman"],
-      "emoji": ":flag_om:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Australia",
-      "code": "au",
-      "triggerNames": ["australia"],
-      "emoji": ":flag_au:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Japan",
-      "code": "jp",
-      "triggerNames": ["japan"],
-      "emoji": ":flag_jp:",
-      "urlSearchWord": "映画"
-    },
-    {
-      "name": "Italy",
-      "code": "it",
-      "triggerNames": ["Italy", "Italia"],
-      "emoji": ":flag_it:",
-      "urlSearchWord": "cerca"
-    },
-    {
-      "name": "Mexico",
-      "code": "mx",
-      "triggerNames": ["mexico"],
-      "emoji": ":flag_mx:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Bermuda",
-      "code": "bm",
-      "triggerNames": ["bermuda"],
-      "emoji": ":flag_bm:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Argentina",
-      "code": "ar",
-      "triggerNames": ["Argentina"],
-      "emoji": ":flag_ar:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Bolivia",
-      "code": "bo",
-      "triggerNames": ["bolivia"],
-      "emoji": ":flag_bo:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Chile",
-      "code": "cl",
-      "triggerNames": ["chile"],
-      "emoji": ":flag_cl:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Colombia",
-      "code": "co",
-      "triggerNames": ["colombia"],
-      "emoji": ":flag_co:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Ecuador",
-      "code": "ec",
-      "triggerNames": ["ecuador"],
-      "emoji": ":flag_ec:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "French Guiana",
-      "code": "gf",
-      "triggerNames": ["french guiana"],
-      "emoji": "flag_gf",
-      "urlSearchWord": "recherche"
-    },
-    {
-      "name": "Guyana",
-      "code": "gy",
-      "triggerNames": ["guyana"],
-      "emoji": ":flag_gy:",
-      "urlSearchWord": "search"
-    },
-    {
-      "name": "Paraguay",
-      "code": "py",
-      "triggerNames": ["paraguay"],
-      "emoji": ":flag_py:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Peru",
-      "code": "pe",
-      "triggerNames": ["peru"],
-      "emoji": ":flag_pe:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Uruguay",
-      "code": "uy",
-      "triggerNames": ["uruguay"],
-      "emoji": ":flag_uy:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Venezuela",
-      "code": "ve",
-      "triggerNames": ["venezuela"],
-      "emoji": ":flag_ve:",
-      "urlSearchWord": "buscar"
-    },
-    {
-      "name": "Albania",
-      "code": "al",
-      "triggerNames": ["albania"],
-      "emoji": ":flag_al:",
-      "urlSearchWord": "kërko"
-    },
-    {
-      "name": "Andorra",
-      "code": "ad",
-      "triggerNames": ["andorra"],
-      "emoji": ":flag_ad:",
-      "urlSearchWord": "cerca"
-    },
-    {
-      "name": "Austria",
-      "code": "at",
-      "triggerNames": ["austria"],
-      "emoji": ":flag_at:",
-      "urlSearchWord": "Suche"
-    },
-    {
-      "name": "Azerbaijan",
-      "code": "az",
-      "triggerNames": ["azerbaijan"],
-      "emoji": ":flag_az:",
-      "urlSearchWord": "axtarış"
-    },
-    {
-      "name": "Belarus",
-      "code": "by",
-      "triggerNames": ["belarus"],
-      "emoji": ":flag_by:",
-      "urlSearchWord": "пошук"
-    }
-  ]
-}
+[
+  {
+    "name": "Bermuda",
+    "code": "bm",
+    "emoji": ":flag_bm:",
+    "triggerNames": ["bermuda"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Canada",
+    "code": "ca",
+    "emoji": ":flag_ca:",
+    "triggerNames": ["canada"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Mexico",
+    "code": "mx",
+    "emoji": ":flag_mx:",
+    "triggerNames": ["mexico"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "United States",
+    "code": "us",
+    "emoji": ":flag_us:",
+    "triggerNames": ["usa", "us", "united states", "united states of america", "us of a", "america"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Argentina",
+    "code": "ar",
+    "emoji": ":flag_ar:",
+    "triggerNames": ["argentina"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Bolivia",
+    "code": "bo",
+    "emoji": ":flag_bo:",
+    "triggerNames": ["bolivia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Brazil",
+    "code": "br",
+    "emoji": ":flag_br:",
+    "triggerNames": ["brazil"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Chile",
+    "code": "cl",
+    "emoji": ":flag_cl:",
+    "triggerNames": ["chile"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Colombia",
+    "code": "co",
+    "emoji": ":flag_co:",
+    "triggerNames": ["colombia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Ecuador",
+    "code": "ec",
+    "emoji": ":flag_ec:",
+    "triggerNames": ["ecuador"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "French Guiana",
+    "code": "gf",
+    "emoji": ":flag_gf:",
+    "triggerNames": ["french guiana"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Guyana",
+    "code": "gy",
+    "emoji": ":flag_gy:",
+    "triggerNames": ["guyana"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Paraguay",
+    "code": "py",
+    "emoji": ":flag_py:",
+    "triggerNames": ["paraguay"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Peru",
+    "code": "pe",
+    "emoji": ":flag_pe:",
+    "triggerNames": ["peru"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Uruguay",
+    "code": "uy",
+    "emoji": ":flag_uy:",
+    "triggerNames": ["uruguay"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Venezuela",
+    "code": "ve",
+    "emoji": ":flag_ve:",
+    "triggerNames": ["venezuela"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Albania",
+    "code": "al",
+    "emoji": ":flag_al:",
+    "triggerNames": ["albania"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Androrra",
+    "code": "ad",
+    "emoji": ":flag_ad:",
+    "triggerNames": ["androrra"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Austria",
+    "code": "at",
+    "emoji": ":flag_at:",
+    "triggerNames": ["austria"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "az",
+    "emoji": ":flag_az:",
+    "triggerNames": ["azerbaijan"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Belarus",
+    "code": "by",
+    "emoji": ":flag_by:",
+    "triggerNames": ["belarus"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Belgium",
+    "code": "be",
+    "emoji": ":flag_be:",
+    "triggerNames": ["belgium"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "ba",
+    "emoji": ":flag_ba:",
+    "triggerNames": ["bosnia", "herzegovina"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "bg",
+    "emoji": ":flag_bg:",
+    "triggerNames": ["bulgaria"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Croatia",
+    "code": "hr",
+    "emoji": ":flag_hr:",
+    "triggerNames": ["croatia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Cyprus",
+    "code": "cy",
+    "emoji": ":flag_cy:",
+    "triggerNames": ["cyprus"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Czech Republic",
+    "code": "cz",
+    "emoji": ":flag_cz:",
+    "triggerNames": ["czech republic", "czech"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Denmark",
+    "code": "dk",
+    "emoji": ":flag_dk:",
+    "triggerNames": ["denmark"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Estonia",
+    "code": "ee",
+    "emoji": ":flag_ee:",
+    "triggerNames": ["estonia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Finland",
+    "code": "fi",
+    "emoji": ":flag_fi:",
+    "triggerNames": ["finland"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "France",
+    "code": "fr",
+    "emoji": ":flag_fr:",
+    "triggerNames": ["france"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Germany",
+    "code": "de",
+    "emoji": ":flag_de:",
+    "triggerNames": ["Germany", "Deutschland"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Gibraltar",
+    "code": "gi",
+    "emoji": ":flag_gi:",
+    "triggerNames": ["gibraltar"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Greece",
+    "code": "gr",
+    "emoji": ":flag_gr:",
+    "triggerNames": ["greece"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Guernsey",
+    "code": "gg",
+    "emoji": ":flag_gg:",
+    "triggerNames": ["guernsey"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Hungary",
+    "code": "hu",
+    "emoji": ":flag_hu:",
+    "triggerNames": ["hungary"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Iceland",
+    "code": "is",
+    "emoji": ":flag_is:",
+    "triggerNames": ["iceland"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Ireland",
+    "code": "ie",
+    "emoji": ":flag_ie:",
+    "triggerNames": ["ireland"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Italy",
+    "code": "it",
+    "emoji": ":flag_it:",
+    "triggerNames": ["italy"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Kosovo",
+    "code": "xk",
+    "emoji": ":flag_xk:",
+    "triggerNames": ["kosovo"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Latvia",
+    "code": "lv",
+    "emoji": ":flag_lv:",
+    "triggerNames": ["latvia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "li",
+    "emoji": ":flag_li:",
+    "triggerNames": ["liechtenstein"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Lithuania",
+    "code": "lt",
+    "emoji": ":flag_lt:",
+    "triggerNames": ["lithuania"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "lu",
+    "emoji": ":flag_lu:",
+    "triggerNames": ["luxembourg"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Macedonia",
+    "code": "mk",
+    "emoji": ":flag_mk:",
+    "triggerNames": ["macedonia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Malta",
+    "code": "mt",
+    "emoji": ":flag_mt:",
+    "triggerNames": ["malta"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Moldova",
+    "code": "md",
+    "emoji": ":flag_md:",
+    "triggerNames": ["moldova"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Monaco",
+    "code": "mc",
+    "emoji": ":flag_mc:",
+    "triggerNames": ["monaco"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Montenegro",
+    "code": "me",
+    "emoji": ":flag_me:",
+    "triggerNames": ["montenegro"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Netherlands",
+    "code": "nl",
+    "emoji": ":flag_nl:",
+    "triggerNames": ["netherlands"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Norway",
+    "code": "no",
+    "emoji": ":flag_no:",
+    "triggerNames": ["norway"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Poland",
+    "code": "pl",
+    "emoji": ":flag_pl:",
+    "triggerNames": ["poland"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Portugal",
+    "code": "pt",
+    "emoji": ":flag_pt:",
+    "triggerNames": ["portugal"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Romania",
+    "code": "ro",
+    "emoji": ":flag_ro:",
+    "triggerNames": ["romania"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Russia",
+    "code": "ru",
+    "emoji": ":flag_ru:",
+    "triggerNames": ["russia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "San Marino",
+    "code": "sm",
+    "emoji": ":flag_sm:",
+    "triggerNames": ["san marino"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Serbia",
+    "code": "rs",
+    "emoji": ":flag_rs:",
+    "triggerNames": ["serbia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Slovakia",
+    "code": "sk",
+    "emoji": ":flag_sk:",
+    "triggerNames": ["slovakia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Slovenia",
+    "code": "si",
+    "emoji": ":flag_si:",
+    "triggerNames": ["slovenia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Spain",
+    "code": "es",
+    "emoji": ":flag_es:",
+    "triggerNames": ["spain"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Sweden",
+    "code": "se",
+    "emoji": ":flag_se:",
+    "triggerNames": ["sweden"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Switzerland",
+    "code": "ch",
+    "emoji": ":flag_ch:",
+    "triggerNames": ["switzerland"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Turkey",
+    "code": "tr",
+    "emoji": ":flag_tr:",
+    "triggerNames": ["turkey"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Ukraine",
+    "code": "ua",
+    "emoji": ":flag_ua:",
+    "triggerNames": ["ukraine"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "uk",
+    "emoji": ":flag_br:",
+    "triggerNames": ["uk", "united kingdom", "britain"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Vatican City",
+    "code": "va",
+    "emoji": ":flag_va:",
+    "triggerNames": ["vatican", "vatican city"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Hong Kong",
+    "code": "hk",
+    "emoji": ":flag_hk:",
+    "triggerNames": ["hong kong"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "India",
+    "code": "in",
+    "emoji": ":flag_in:",
+    "triggerNames": ["india"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Indonesia",
+    "code": "id",
+    "emoji": ":flag_id:",
+    "triggerNames": ["indonesia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Japan",
+    "code": "jp",
+    "emoji": ":flag_jp:",
+    "triggerNames": ["japan"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Lebanon",
+    "code": "lb",
+    "emoji": ":flag_lb:",
+    "triggerNames": ["lebanon"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Malaysia",
+    "code": "my",
+    "emoji": ":flag_my:",
+    "triggerNames": ["malaysia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Pakistan",
+    "code": "pk",
+    "emoji": ":flag_pk:",
+    "triggerNames": ["pakistan"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Philippines",
+    "code": "ph",
+    "emoji": ":flag_ph:",
+    "triggerNames": ["philippines"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Singapore",
+    "code": "sg",
+    "emoji": ":flag_sg:",
+    "triggerNames": ["singapore"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "South Korea",
+    "code": "kr",
+    "emoji": ":flag_kr:",
+    "triggerNames": ["south korea"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Taiwan",
+    "code": "tw",
+    "emoji": ":flag_tw:",
+    "triggerNames": ["taiwan"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Thailand",
+    "code": "th",
+    "emoji": ":flag_th:",
+    "triggerNames": ["thailand"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Belize",
+    "code": "bz",
+    "emoji": ":flag_bz:",
+    "triggerNames": ["belize"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "CostaRica",
+    "code": "cr",
+    "emoji": ":flag_cr:",
+    "triggerNames": ["costarica"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "El Salvador",
+    "code": "sv",
+    "emoji": ":flag_sv:",
+    "triggerNames": ["el salvador"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Guatemala",
+    "code": "gt",
+    "emoji": ":flag_gt:",
+    "triggerNames": ["guatemala"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Honduras",
+    "code": "hn",
+    "emoji": ":flag_hn:",
+    "triggerNames": ["honduras"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "ni",
+    "emoji": ":flag_ni:",
+    "triggerNames": ["nicaragua"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Panama",
+    "code": "pa",
+    "emoji": ":flag_pa:",
+    "triggerNames": ["panama"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Algeria",
+    "code": "dz",
+    "emoji": ":flag_dz:",
+    "triggerNames": ["algeria"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Angola",
+    "code": "ao",
+    "emoji": ":flag_ao:",
+    "triggerNames": ["angola"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "bf",
+    "emoji": ":flag_bf:",
+    "triggerNames": ["burkina faso"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Cameroon",
+    "code": "cm",
+    "emoji": ":flag_cm:",
+    "triggerNames": ["cameroon"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "CapeVerde",
+    "code": "cv",
+    "emoji": ":flag_cv:",
+    "triggerNames": ["capeverde"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Chad",
+    "code": "td",
+    "emoji": ":flag_td:",
+    "triggerNames": ["chad"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "gq",
+    "emoji": ":flag_gq:",
+    "triggerNames": ["equatorial guinea"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Ghana",
+    "code": "gh",
+    "emoji": ":flag_gh:",
+    "triggerNames": ["ghana"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "ci",
+    "emoji": ":flag_ci:",
+    "triggerNames": ["ivory coast"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Kenya",
+    "code": "ke",
+    "emoji": ":flag_ke:",
+    "triggerNames": ["kenya"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Libya",
+    "code": "ly",
+    "emoji": ":flag_ly:",
+    "triggerNames": ["libya"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Madagascar",
+    "code": "mg",
+    "emoji": ":flag_mg:",
+    "triggerNames": ["madagascar"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Malawi",
+    "code": "mw",
+    "emoji": ":flag_mw:",
+    "triggerNames": ["malawi"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Mali",
+    "code": "ml",
+    "emoji": ":flag_ml:",
+    "triggerNames": ["mali"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Mauritius",
+    "code": "mu",
+    "emoji": ":flag_mu:",
+    "triggerNames": ["mauritius"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Morocco",
+    "code": "ma",
+    "emoji": ":flag_ma:",
+    "triggerNames": ["morocco"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Mozambique",
+    "code": "mz",
+    "emoji": ":flag_mz:",
+    "triggerNames": ["mozambique"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Niger",
+    "code": "ne",
+    "emoji": ":flag_ne:",
+    "triggerNames": ["niger"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Nigeria",
+    "code": "ng",
+    "emoji": ":flag_ng:",
+    "triggerNames": ["nigeria"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Senegal",
+    "code": "sn",
+    "emoji": ":flag_sn:",
+    "triggerNames": ["senegal"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Seychelles",
+    "code": "sc",
+    "emoji": ":flag_sc:",
+    "triggerNames": ["seychelles"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "South Africa",
+    "code": "za",
+    "emoji": ":flag_za:",
+    "triggerNames": ["south africa"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Tanzania",
+    "code": "tz",
+    "emoji": ":flag_tz:",
+    "triggerNames": ["tanzania"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Tunisia",
+    "code": "tn",
+    "emoji": ":flag_tn:",
+    "triggerNames": ["tunisia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Uganda",
+    "code": "ug",
+    "emoji": ":flag_ug:",
+    "triggerNames": ["uganda"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Zambia",
+    "code": "zm",
+    "emoji": ":flag_zm:",
+    "triggerNames": ["zambia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "zw",
+    "emoji": ":flag_zw:",
+    "triggerNames": ["zimbabwe"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Australia",
+    "code": "au",
+    "emoji": ":flag_au:",
+    "triggerNames": ["australia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Fiji",
+    "code": "fj",
+    "emoji": ":flag_fj:",
+    "triggerNames": ["fiji"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "French Polynesia",
+    "code": "pf",
+    "emoji": ":flag_pf:",
+    "triggerNames": ["french polynesia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "New Zealand",
+    "code": "nz",
+    "emoji": ":flag_nz:",
+    "triggerNames": ["new zealand"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "pg",
+    "emoji": ":flag_pg:",
+    "triggerNames": ["papuanewguinea"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Bahrain",
+    "code": "bh",
+    "emoji": ":flag_bh:",
+    "triggerNames": ["bahrain"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Egypt",
+    "code": "eg",
+    "emoji": ":flag_eg:",
+    "triggerNames": ["egypt"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Iraq",
+    "code": "iq",
+    "emoji": ":flag_iq:",
+    "triggerNames": ["iraq"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Israel",
+    "code": "il",
+    "emoji": ":flag_il:",
+    "triggerNames": ["israel"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Jordan",
+    "code": "jo",
+    "emoji": ":flag_jo:",
+    "triggerNames": ["jordan"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Kuwait",
+    "code": "kw",
+    "emoji": ":flag_kw:",
+    "triggerNames": ["kuwait"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Oman",
+    "code": "om",
+    "emoji": ":flag_om:",
+    "triggerNames": ["oman"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Palestine",
+    "code": "ps",
+    "emoji": ":flag_ps:",
+    "triggerNames": ["palestine"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Qatar",
+    "code": "qa",
+    "emoji": ":flag_qa:",
+    "triggerNames": ["qatar"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "sa",
+    "emoji": ":flag_sa:",
+    "triggerNames": ["saudi arabia"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "ae",
+    "emoji": ":flag_ae:",
+    "triggerNames": ["united arab emirates"],
+    "urlSearchWord": "search"
+  },
+  {
+    "name": "Yemen",
+    "code": "ye",
+    "emoji": ":flag_ye:",
+    "triggerNames": ["yemen"],
+    "urlSearchWord": "search"
+  }
+]
