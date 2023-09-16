@@ -19,7 +19,7 @@
       "code": "mx",
       "emoji": ":flag_mx:",
       "triggerNames": ["mexico"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "United States",
@@ -33,49 +33,49 @@
       "code": "ar",
       "emoji": ":flag_ar:",
       "triggerNames": ["argentina"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Bolivia",
       "code": "bo",
       "emoji": ":flag_bo:",
       "triggerNames": ["bolivia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Brazil",
       "code": "br",
       "emoji": ":flag_br:",
       "triggerNames": ["brazil"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "busca"
     },
     {
       "name": "Chile",
       "code": "cl",
       "emoji": ":flag_cl:",
       "triggerNames": ["chile"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Colombia",
       "code": "co",
       "emoji": ":flag_co:",
       "triggerNames": ["colombia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Ecuador",
       "code": "ec",
       "emoji": ":flag_ec:",
       "triggerNames": ["ecuador"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "French Guiana",
       "code": "gf",
       "emoji": ":flag_gf:",
       "triggerNames": ["french guiana"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Guyana",
@@ -89,77 +89,77 @@
       "code": "py",
       "emoji": ":flag_py:",
       "triggerNames": ["paraguay"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Peru",
       "code": "pe",
       "emoji": ":flag_pe:",
       "triggerNames": ["peru"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Uruguay",
       "code": "uy",
       "emoji": ":flag_uy:",
       "triggerNames": ["uruguay"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Venezuela",
       "code": "ve",
       "emoji": ":flag_ve:",
       "triggerNames": ["venezuela"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Albania",
       "code": "al",
       "emoji": ":flag_al:",
       "triggerNames": ["albania"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "kërko"
     },
     {
       "name": "Androrra",
       "code": "ad",
       "emoji": ":flag_ad:",
       "triggerNames": ["androrra"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "cerca"
     },
     {
       "name": "Austria",
       "code": "at",
       "emoji": ":flag_at:",
       "triggerNames": ["austria"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "Suche"
     },
     {
       "name": "Azerbaijan",
       "code": "az",
       "emoji": ":flag_az:",
       "triggerNames": ["azerbaijan"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "axtarış"
     },
     {
       "name": "Belarus",
       "code": "by",
       "emoji": ":flag_by:",
       "triggerNames": ["belarus"],
-      "urlSearchWord": "search"
-    },
+      "urlSearchWord": "пошук"
+    }
     {
       "name": "Belgium",
       "code": "be",
       "emoji": ":flag_be:",
       "triggerNames": ["belgium"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Bosnia and Herzegovina",
       "code": "ba",
       "emoji": ":flag_ba:",
       "triggerNames": ["bosnia", "herzegovina"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "traži"
     },
     {
       "name": "Bulgaria",
@@ -173,7 +173,7 @@
       "code": "hr",
       "emoji": ":flag_hr:",
       "triggerNames": ["croatia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "pretraživanje"
     },
     {
       "name": "Cyprus",
@@ -187,7 +187,7 @@
       "code": "cz",
       "emoji": ":flag_cz:",
       "triggerNames": ["czech republic", "czech"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "vyhledání"
     },
     {
       "name": "Denmark",
@@ -201,28 +201,28 @@
       "code": "ee",
       "emoji": ":flag_ee:",
       "triggerNames": ["estonia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "otsing"
     },
     {
       "name": "Finland",
       "code": "fi",
       "emoji": ":flag_fi:",
       "triggerNames": ["finland"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "etsi"
     },
     {
       "name": "France",
       "code": "fr",
       "emoji": ":flag_fr:",
       "triggerNames": ["france"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Germany",
       "code": "de",
       "emoji": ":flag_de:",
-      "triggerNames": ["Germany", "Deutschland"],
-      "urlSearchWord": "search"
+      "triggerNames": ["germany", "deutschland"],
+      "urlSearchWord": "Suche"
     },
     {
       "name": "Gibraltar",
@@ -257,7 +257,7 @@
       "code": "is",
       "emoji": ":flag_is:",
       "triggerNames": ["iceland"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "leita"
     },
     {
       "name": "Ireland",
@@ -271,14 +271,14 @@
       "code": "it",
       "emoji": ":flag_it:",
       "triggerNames": ["italy"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "cerca"
     },
     {
       "name": "Kosovo",
       "code": "xk",
       "emoji": ":flag_xk:",
       "triggerNames": ["kosovo"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "kërko"
     },
     {
       "name": "Latvia",
@@ -292,7 +292,7 @@
       "code": "li",
       "emoji": ":flag_li:",
       "triggerNames": ["liechtenstein"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "Suche"
     },
     {
       "name": "Lithuania",
@@ -306,21 +306,21 @@
       "code": "lu",
       "emoji": ":flag_lu:",
       "triggerNames": ["luxembourg"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Macedonia",
       "code": "mk",
       "emoji": ":flag_mk:",
       "triggerNames": ["macedonia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "пребарување"
     },
     {
       "name": "Malta",
       "code": "mt",
       "emoji": ":flag_mt:",
       "triggerNames": ["malta"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "fittex"
     },
     {
       "name": "Moldova",
@@ -334,14 +334,14 @@
       "code": "mc",
       "emoji": ":flag_mc:",
       "triggerNames": ["monaco"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Montenegro",
       "code": "me",
       "emoji": ":flag_me:",
       "triggerNames": ["montenegro"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "pretraga"
     },
     {
       "name": "Netherlands",
@@ -369,7 +369,7 @@
       "code": "pt",
       "emoji": ":flag_pt:",
       "triggerNames": ["portugal"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "busca"
     },
     {
       "name": "Romania",
@@ -383,42 +383,42 @@
       "code": "ru",
       "emoji": ":flag_ru:",
       "triggerNames": ["russia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "поиск"
     },
     {
       "name": "San Marino",
       "code": "sm",
       "emoji": ":flag_sm:",
       "triggerNames": ["san marino"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "cerca"
     },
     {
       "name": "Serbia",
       "code": "rs",
       "emoji": ":flag_rs:",
       "triggerNames": ["serbia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "pretraga"
     },
     {
       "name": "Slovakia",
       "code": "sk",
       "emoji": ":flag_sk:",
       "triggerNames": ["slovakia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "vyhľadávať"
     },
     {
       "name": "Slovenia",
       "code": "si",
       "emoji": ":flag_si:",
       "triggerNames": ["slovenia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "iskanje"
     },
     {
       "name": "Spain",
       "code": "es",
       "emoji": ":flag_es:",
       "triggerNames": ["spain"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Sweden",
@@ -432,21 +432,21 @@
       "code": "ch",
       "emoji": ":flag_ch:",
       "triggerNames": ["switzerland"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "Suche"
     },
     {
       "name": "Turkey",
       "code": "tr",
       "emoji": ":flag_tr:",
       "triggerNames": ["turkey"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "arama"
     },
     {
       "name": "Ukraine",
       "code": "ua",
       "emoji": ":flag_ua:",
       "triggerNames": ["ukraine"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "пошук"
     },
     {
       "name": "United Kingdom",
@@ -460,7 +460,7 @@
       "code": "va",
       "emoji": ":flag_va:",
       "triggerNames": ["vatican", "vatican city"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "cerca"
     },
     {
       "name": "Hong Kong",
@@ -488,7 +488,7 @@
       "code": "jp",
       "emoji": ":flag_jp:",
       "triggerNames": ["japan"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "検索"
     },
     {
       "name": "Lebanon",
@@ -530,7 +530,7 @@
       "code": "kr",
       "emoji": ":flag_kr:",
       "triggerNames": ["south korea"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "검색"
     },
     {
       "name": "Taiwan",
@@ -558,42 +558,42 @@
       "code": "cr",
       "emoji": ":flag_cr:",
       "triggerNames": ["costarica"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "El Salvador",
       "code": "sv",
       "emoji": ":flag_sv:",
       "triggerNames": ["el salvador"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Guatemala",
       "code": "gt",
       "emoji": ":flag_gt:",
       "triggerNames": ["guatemala"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Honduras",
       "code": "hn",
       "emoji": ":flag_hn:",
       "triggerNames": ["honduras"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Nicaragua",
       "code": "ni",
       "emoji": ":flag_ni:",
       "triggerNames": ["nicaragua"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Panama",
       "code": "pa",
       "emoji": ":flag_pa:",
       "triggerNames": ["panama"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Algeria",
@@ -607,14 +607,14 @@
       "code": "ao",
       "emoji": ":flag_ao:",
       "triggerNames": ["angola"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "busca"
     },
     {
       "name": "Burkina Faso",
       "code": "bf",
       "emoji": ":flag_bf:",
       "triggerNames": ["burkina faso"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Cameroon",
@@ -628,7 +628,7 @@
       "code": "cv",
       "emoji": ":flag_cv:",
       "triggerNames": ["capeverde"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "busca"
     },
     {
       "name": "Chad",
@@ -642,7 +642,7 @@
       "code": "gq",
       "emoji": ":flag_gq:",
       "triggerNames": ["equatorial guinea"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "buscar"
     },
     {
       "name": "Ghana",
@@ -656,7 +656,7 @@
       "code": "ci",
       "emoji": ":flag_ci:",
       "triggerNames": ["ivory coast"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Kenya",
@@ -677,7 +677,7 @@
       "code": "mg",
       "emoji": ":flag_mg:",
       "triggerNames": ["madagascar"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Malawi",
@@ -691,14 +691,14 @@
       "code": "ml",
       "emoji": ":flag_ml:",
       "triggerNames": ["mali"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Mauritius",
       "code": "mu",
       "emoji": ":flag_mu:",
       "triggerNames": ["mauritius"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Morocco",
@@ -712,14 +712,14 @@
       "code": "mz",
       "emoji": ":flag_mz:",
       "triggerNames": ["mozambique"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "busca"
     },
     {
       "name": "Niger",
       "code": "ne",
       "emoji": ":flag_ne:",
       "triggerNames": ["niger"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Nigeria",
@@ -733,14 +733,14 @@
       "code": "sn",
       "emoji": ":flag_sn:",
       "triggerNames": ["senegal"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "Seychelles",
       "code": "sc",
       "emoji": ":flag_sc:",
       "triggerNames": ["seychelles"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "South Africa",
@@ -754,7 +754,7 @@
       "code": "tz",
       "emoji": ":flag_tz:",
       "triggerNames": ["tanzania"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "tafuta"
     },
     {
       "name": "Tunisia",
@@ -803,7 +803,7 @@
       "code": "pf",
       "emoji": ":flag_pf:",
       "triggerNames": ["french polynesia"],
-      "urlSearchWord": "search"
+      "urlSearchWord": "recherche"
     },
     {
       "name": "New Zealand",
@@ -816,7 +816,7 @@
       "name": "Papua New Guinea",
       "code": "pg",
       "emoji": ":flag_pg:",
-      "triggerNames": ["papuanewguinea"],
+      "triggerNames": ["papua new guinea"],
       "urlSearchWord": "search"
     },
     {
