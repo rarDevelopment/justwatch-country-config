@@ -25,7 +25,7 @@
       "name": "United States",
       "code": "us",
       "emoji": ":flag_us:",
-      "triggerNames": ["usa", "us", "united states", "united states of america", "us of a", "the usa", "the united states", "america"],
+      "triggerNames": ["usa", "us", "united states", "united states of america", "us of a", "the usa", "the us", "the united states", "america"],
       "urlSearchWord": "search"
     },
     {
